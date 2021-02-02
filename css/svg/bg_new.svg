@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2.6458mm"
-   height="2.6458mm"
+   width="2.6458333mm"
+   height="0.51221681mm"
    version="1.1"
-   viewBox="0 0 2.6458 2.6458"
+   viewBox="0 0 2.6458331 0.51221678"
    id="svg2939"
    sodipodi:docname="bg_new.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
@@ -29,13 +29,18 @@
      inkscape:window-height="986"
      id="namedview2941"
      showgrid="false"
-     inkscape:zoom="45.254834"
-     inkscape:cx="4.2444156"
-     inkscape:cy="4.2144657"
+     inkscape:zoom="64"
+     inkscape:cx="4.9552267"
+     inkscape:cy="-0.26219252"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4" />
+     inkscape:current-layer="layer4"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata2931">
     <rdf:RDF>
@@ -49,22 +54,23 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-30.551 -96.652)"
+     transform="translate(-30.551,-98.173768)"
      id="g2937">
     <rect
        x="48.882"
        y="100.26"
-       width="2.6458"
-       height="2.6458"
+       width="2.6458001"
+       height="2.6458001"
        fill="none"
-       stroke-width=".26458"
+       stroke-width="0.26458"
        id="rect2933" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     style="display:none">
+     style="display:none"
+     transform="translate(0,-1.5217676)">
     <rect
        style="fill:#00ff00;stroke:none;stroke-width:0.264583"
        id="rect2996"
@@ -77,22 +83,12 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="final"
-     style="display:inline">
-    <path
-       id="rect2996-5"
-       style="display:inline;fill:#00ffff;stroke:none;stroke-width:0.999999"
-       d="M 9.1230469 0.19140625 C 8.8123316 0.17449671 8.5120357 0.1770839 8.2558594 0.21679688 C 7.2311543 0.37564701 7.0316763 1.1318263 6.0957031 1.046875 C 5.1597295 0.96192369 4.7067063 0.86053821 4.3359375 0.86132812 C 3.5185202 0.86306814 3.4013767 0.86445529 2.5722656 1.4609375 C 1.8925745 1.9498516 0.87072908 1.5916072 0.2109375 1.4980469 C 0.1550064 1.4901153 0.067330428 1.5044598 0 1.5039062 L 0 10 L 10 10 L 10 0.27929688 C 9.7112633 0.24295482 9.4150134 0.20729546 9.1230469 0.19140625 z "
-       transform="scale(0.26458333)" />
-    <path
-       id="rect2996-8"
-       style="display:inline;fill:#ffff00;stroke:none;stroke-width:0.999999"
-       d="M 10,2.6617188 C 9.6265987,2.645962 9.2693557,2.6482014 8.9609375,2.6871094 7.7017701,2.8459595 7.4528673,3.6021388 6.3027344,3.5171875 5.1526011,3.4322362 4.5981828,3.3308507 4.1425781,3.3316406 3.1381278,3.3333807 2.9934293,3.3347676 1.9746094,3.93125 1.4076541,4.2631332 0.68325483,4.1982423 0,4.0972656 V 10 h 10 z"
-       transform="scale(0.26458333)"
-       sodipodi:nodetypes="ccscccccc" />
+     style="display:inline"
+     transform="translate(0,-1.5217676)">
     <path
        id="rect2996-1"
        style="display:inline;fill:#0000ff;stroke:none;stroke-width:0.999999"
-       d="M 10,5.7515625 C 8.6507497,5.986119 8.2242606,6.5940624 6.7929688,6.5171875 5.2113052,6.4322362 4.448813,6.3308507 3.8222656,6.3316406 2.4409455,6.3333807 2.2409252,6.3347676 0.83984375,6.93125 0.58447037,7.0399541 0.29927945,7.1010906 0,7.1382812 V 10 h 10 z"
+       d="M 10,5.7515625 C 8.6507497,5.986119 8.2242606,6.5940624 6.7929688,6.5171875 5.2113052,6.4322362 4.448813,6.3308507 3.8222656,6.3316406 2.4409455,6.3333807 2.2409252,6.3347676 0.83984375,6.93125 0.58447037,7.0399541 0.29927945,7.1010906 0,7.1382812 V 7.6875 h 10 z"
        transform="scale(0.26458333)"
        sodipodi:nodetypes="cssccccc" />
   </g>
@@ -100,26 +96,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="wave1"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(0,-1.5217676)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="wave2"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(0,-1.5217676)" />
   <g
      inkscape:groupmode="layer"
      id="g3025"
      inkscape:label="wave3"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(0,-1.5217676)" />
   <g
      inkscape:groupmode="layer"
      id="g3031"
      inkscape:label="wave4"
-     style="display:inline">
-    <path
-       id="rect2996-2-8-2-9-7"
-       style="display:inline;fill:#ff0000;stroke:none;stroke-width:0.999999"
-       d="M 10 8.5683594 C 9.2116512 8.8106494 8.5508728 9.0585026 7.3496094 9.0078125 C 5.3364168 8.9228601 4.3658501 8.8214757 3.5683594 8.8222656 C 1.9009988 8.8239158 1.5490628 8.8407267 0 9.3496094 L 0 10 L 10 10 L 10 8.5683594 z "
-       transform="scale(0.26458333)" />
-  </g>
+     style="display:inline"
+     transform="translate(0,-1.5217676)" />
 </svg>
