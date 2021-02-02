@@ -660,6 +660,9 @@ body {
     -webkit-filter: grayscale(0);
             filter: grayscale(0);
   }
+  #intro__text {
+    font-size: 14px;
+  }
   .project-image {
     -webkit-filter: grayscale(0);
             filter: grayscale(0);
@@ -668,6 +671,7 @@ body {
     -ms-flex-wrap: wrap-reverse;
         flex-wrap: wrap-reverse;
     width: 250px;
+    margin-bottom: 150px;
   }
   .project__modal__content {
     width: 100%;
@@ -677,8 +681,13 @@ body {
   .close {
     left: 3vw;
   }
+  .experience__list__item {
+    width: 60px;
+    height: 100px;
+    font-size: 12px;
+  }
   .experience__description__paragraph {
-    font-size: 13px;
+    font-size: 12px;
   }
   #skills-description {
     display: -webkit-box;
